@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # *Function:*  find_concavity()
-# ### This funtion is used to reduce the computational comlexity of the model 
-# 
-
 import cv2, os
 import numpy as np
 import tifffile as tiff
